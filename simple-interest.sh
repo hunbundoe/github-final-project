@@ -1,5 +1,5 @@
 #!/bin/bash
-# This script calculates simple interest given pricipal, 
+# This script calculates simple interest given principal, 
 # annual rate of interest and time period in years.
 
 # Do not use this in production. Sample purpose only.
@@ -13,7 +13,7 @@
 # r, annual rate of interest
 
 # Output
-# simple interst = p*t*r
+# simple interest = p*t*r
 
 echo "Enter the principal:"
 read p
